@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["esnext","dom"] ,
+    "lib": ["ES2018","dom"] ,
     "declaration": true,
     "moduleResolution": "node",
     "strictNullChecks": true,

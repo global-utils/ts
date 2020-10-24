@@ -7,9 +7,17 @@
     ".": "./index.js",
     "./string": "./string.js",
     "./array": "./array.js",
-    "./promise": "./promise.js"
+    "./promise": "./promise.js",
+    "./date": "./date.js"
   },
   "repository": {
     "license": "UNLICENSED"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.12.0",
+    "eslint-plugin-import": "^2.22.1",
+    "typescript": "^4.0.3"
   }
 }
