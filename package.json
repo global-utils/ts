@@ -2,9 +2,7 @@
   "name": "one-stone",
   "version": "1.0.2",
   "description": "",
-  "main": "index.js",
   "exports": {
-    ".": "./index.js",
     "./string": "./string.js",
     "./array": "./array.js",
     "./promise": "./promise.js",
